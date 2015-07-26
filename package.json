@@ -1,8 +1,8 @@
 {
-  "name": "testing-node-with-mocha",
+  "name": "string-calculator-coffeescript-pbt",
   "version": "0.1.0",
-  "author": "Firstname Lastname <email@domain.com>",
-  "description": "a barebones example of testing node.js code with mocha",
+  "author": "Graeme Lockley <graemel@no9.co.za>",
+  "description": "String Calculator Kata using CoffeeScript and property based tests",
   "scripts": {
     "test": "mocha -w --compilers coffee:coffee-script/register"
   },
